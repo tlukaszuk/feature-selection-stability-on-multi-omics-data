@@ -3,24 +3,10 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
 
 # datasets parameters
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>index</th>
       <th>name</th>
       <th>#objs</th>
       <th>#objs in classes 0/1</th>
@@ -33,8 +19,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
-      <td>1</td>
+      <th>1</th>
       <td>BLCA</td>
       <td>382</td>
       <td>196/186</td>
@@ -45,8 +30,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>23081</td>
     </tr>
     <tr>
-      <th>1</th>
-      <td>1</td>
+      <th>2</th>
       <td>BRCA</td>
       <td>735</td>
       <td>480/255</td>
@@ -57,8 +41,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>22694</td>
     </tr>
     <tr>
-      <th>2</th>
-      <td>1</td>
+      <th>3</th>
       <td>COAD</td>
       <td>191</td>
       <td>85/106</td>
@@ -69,8 +52,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>22210</td>
     </tr>
     <tr>
-      <th>3</th>
-      <td>1</td>
+      <th>4</th>
       <td>ESCA</td>
       <td>106</td>
       <td>23/83</td>
@@ -81,8 +63,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>25494</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>1</td>
+      <th>5</th>
       <td>HNSC</td>
       <td>443</td>
       <td>136/307</td>
@@ -93,8 +74,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>21520</td>
     </tr>
     <tr>
-      <th>5</th>
-      <td>1</td>
+      <th>6</th>
       <td>LGG</td>
       <td>419</td>
       <td>224/195</td>
@@ -105,8 +85,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>22297</td>
     </tr>
     <tr>
-      <th>6</th>
-      <td>1</td>
+      <th>7</th>
       <td>LIHC</td>
       <td>159</td>
       <td>115/44</td>
@@ -117,8 +96,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>20994</td>
     </tr>
     <tr>
-      <th>7</th>
-      <td>1</td>
+      <th>8</th>
       <td>LUAD</td>
       <td>426</td>
       <td>214/212</td>
@@ -129,8 +107,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>23681</td>
     </tr>
     <tr>
-      <th>8</th>
-      <td>1</td>
+      <th>9</th>
       <td>LUSC</td>
       <td>418</td>
       <td>72/346</td>
@@ -141,8 +118,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>23524</td>
     </tr>
     <tr>
-      <th>9</th>
-      <td>1</td>
+      <th>10</th>
       <td>PAAD</td>
       <td>124</td>
       <td>46/78</td>
@@ -153,8 +129,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>22348</td>
     </tr>
     <tr>
-      <th>10</th>
-      <td>1</td>
+      <th>11</th>
       <td>PRAD</td>
       <td>407</td>
       <td>359/48</td>
@@ -165,8 +140,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>21769</td>
     </tr>
     <tr>
-      <th>11</th>
-      <td>1</td>
+      <th>12</th>
       <td>SARC</td>
       <td>126</td>
       <td>78/48</td>
@@ -177,8 +151,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>22842</td>
     </tr>
     <tr>
-      <th>12</th>
-      <td>1</td>
+      <th>13</th>
       <td>SKCM</td>
       <td>249</td>
       <td>210/39</td>
@@ -189,8 +162,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>22248</td>
     </tr>
     <tr>
-      <th>13</th>
-      <td>1</td>
+      <th>14</th>
       <td>STAD</td>
       <td>295</td>
       <td>156/139</td>
@@ -201,8 +173,7 @@ https://figshare.com/articles/dataset/Benchmark_study_of_feature_selection_strat
       <td>26027</td>
     </tr>
     <tr>
-      <th>14</th>
-      <td>1</td>
+      <th>15</th>
       <td>UCEC</td>
       <td>405</td>
       <td>261/144</td>
